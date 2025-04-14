@@ -1,0 +1,12 @@
+{
+  "name": "Testimonial Video Slider",
+  "description": "A video testimonial slider widget for use in any funnel or website.",
+  "version": "1.0.0",
+  "main": "index.html",
+  "author": "Aeliya",
+  "widget": {
+    "width": "100%",
+    "height": "auto",
+    "autoHeight": true
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "app_id": "testimonial-slider",
+  "name": "Testimonial Slider Widget",
+  "type": "web-widget",
+  "version": "1.0.0",
+  "visibility": "private",
+  "distribution": "subaccount"
+}
